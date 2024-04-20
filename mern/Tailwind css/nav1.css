@@ -1,0 +1,25 @@
+
+*{
+  margin:0px;
+  padding: 0px;
+  text-decoration: none;
+
+ }
+
+ .navbar{
+  height: 100px;
+  width: 100%;
+  
+ 
+ }
+ .logo{
+  background-image: url(jakir.png);
+  background-size: cover;
+  height: 100%;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  align-content:space-evenly ;
+ }
